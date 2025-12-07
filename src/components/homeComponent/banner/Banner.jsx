@@ -4,7 +4,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
 import home1 from "../../../img/home1.webp";
 import slider2 from "../../../img/slider2.webp";
-import slider3 from "../../../img/slider3.webp";
+import slider3 from "../../../img/Slider3.webp";
 import { useNavigate, Navigate } from "react-router-dom";
 import SpeechRecognition, {
   useSpeechRecognition
